@@ -1,0 +1,9 @@
+import sys
+import numpy
+from threshold_finder import Threshold_Finder
+
+
+class Average_Threshold_Finder(object):
+
+    def get_average_noise_threshold(self, file_with_samples, no_of_samples):
+        with open(file_with_samples) as f:
