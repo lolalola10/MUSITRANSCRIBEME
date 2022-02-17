@@ -1,0 +1,11 @@
+class KerasSegmentGenerator(object)"
+
+
+
+
+
+
+
+
+
+# segmentLength = librosa.time_to_frames(5) 
